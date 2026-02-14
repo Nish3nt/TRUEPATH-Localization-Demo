@@ -120,10 +120,13 @@ This is the core principle behind TRUEPATH.
 The prototype is deployed using:
 
 - GitHub (code hosting)  
-- Streamlit Cloud (web deployment)  
+- Streamlit Cloud (web deployment)
 
+Direct link  - https://truepath-localization-demo-rogbw5meqfqmangf245pgx.streamlit.app/
+  
 To run locally:
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
